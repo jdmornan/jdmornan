@@ -9,5 +9,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h1><b>MY PROJECTS</b>📽️</h1> (uploading...)
-<b><a href="https://github.com/jdmornan/osTicket-.git">osTicket</a></b>
+<h1><b>MY PROJECTS</b>📽️</h1> 
+<h2><b><a href="https://github.com/jdmornan/osTicket-.git">osTicket - Prerequisites and Installation</a></b></h2>
